@@ -54,11 +54,7 @@ namespace LeetspeakApp.Models
               }
           }
           return result;
-    }
-    public static void ClearAll()
-    {
-      _sentence.Clear();
-    }
+      }
 
   }
 }

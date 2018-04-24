@@ -10,6 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Leetspeak\Leetspeak.csproj" />
+    <ProjectReference Include="..\LeetspeakApp\LeetspeakApp.csproj" />
   </ItemGroup>
 </Project>

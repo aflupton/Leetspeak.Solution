@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System.Collections.Generic;
 
-namespace Leetspeak
+namespace LeetspeakApp
 {
     public class Startup
     {
